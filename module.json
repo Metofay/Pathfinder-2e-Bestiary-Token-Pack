@@ -12,10 +12,12 @@
       "pf2e-art": "modules/PF2e-Bestiary-Token-Pack/bestiaries.json"
     }
   },
-  "manifest": "",
   "authors": [
     {
       "name": "Metofay"
     }
-  ]
+  ],
+  "url": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack",
+  "manifest": "https://raw.githubusercontent.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack//main/module.json",
+  "download": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/archive/refs/heads/main.zip"
 }
