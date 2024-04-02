@@ -5,7 +5,7 @@ This module is designed for the Foundry VTT program, adds bestiary and API art/t
 
 В данном модуле присутствуют арты/токены для:
 
-This module contains art/tokens for:
+This module contains art/tokens for: 
 
 Bestiary:
 
