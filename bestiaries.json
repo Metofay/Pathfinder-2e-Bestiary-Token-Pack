@@ -8252,11 +8252,11 @@
         "scale": 1.6
       }
     },
-    "Gigantopithecus": {
-      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/bestiary/monster-core/gimmerling.webp",
+    "4GXL5FLmN7IxPzVC": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/bestiary/monster-core/gigantopithecus.webp",
       "token": {
-        "img": "modules/PF2e-Bestiary-Token-Pack/tokens/bestiary/monster-core/gimmerling.webp",
-        "scale": 1.6
+        "img": "modules/PF2e-Bestiary-Token-Pack/tokens/bestiary/monster-core/gigantopithecus.webp",
+        "scale": 1
       }
     },
     "pH2yNe16EnoJ8R0i": {
@@ -12180,10 +12180,986 @@
     }
   },
   "extinction-curse-bestiary":{
-		"Abberton Ruffian": {
-			"actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/.webp"
-		}
+    "Abberton Ruffian": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/abberton-ruffian.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/abberton-ruffian.webp",
+          "scale": 1.6
+      }
+  },
+    "beb9LqlOBFseROnY": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/adrivallo.webp",
+        "token": {
+            "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/adrivallo.webp",
+            "scale": 1.6
+        }
+    },
+    "Aives The Smoke Dragon": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/aives-the-smoke-dragon.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/aives-the-smoke-dragon.webp",
+          "scale": 1.6
+      }
+    },
+    "B9fl34W1jENDoYqc": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/ammut.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/ammut.webp",
+          "scale": 1.6
+      }
+    },
+    "oYstle5FAR800UQT": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/andera-paldreen.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/Andera-Paldreen.webp",
+          "scale": 1.6
+      }
+    },
+    "PpAOxz6ayvkn0fMK": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/ararda.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/ararda.webp",
+          "scale": 1.6
+      }
+    },
+    "otSfn7djr37Bdejj": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/arskuva-the-gnasher.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/arskuva-the-gnasher.webp",
+          "scale": 1.6
+      }
+    },
+    "2PxSX2cqEbSFjj3D": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/aukashungi-swarm.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/aukashungi-swarm.webp",
+          "scale": 1.6
+      }
+    },
+    "HEeRO5IF4lAGfDqE": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/barking-stag.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/barking-stag.webp",
+          "scale": 1.6
+      }
+    },
+    "88VcnxbKPF2QkPiF": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/bitter-truth-bandit.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/bitter-truth-bandit.webp",
+          "scale": 1.6
+      }
+    },
+    "HFAhDmrkxg6YLhdF": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/blood-wolf.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/blood-wolf.webp",
+          "scale": 1.6
+      }
+    },
+    "u6b7tlXDXMxmkdLO": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/bogey.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/bogey.webp",
+          "scale": 1.6
+      }
+    },
+    "nFYpYIL5OUCFZCr9": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/bogeyman.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/bogeyman.webp",
+          "scale": 1.6
+      }
+    },
+    "SAqbWugp2NcdEtrr": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/bone-croupier.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/bone-croupier.webp",
+          "scale": 1.6
+      }
+    },
+    "4eQVYZ7sH7O8mw3R": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/brughadatch.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/brughadatch.webp",
+          "scale": 1.6
+      }
+    },
+    "Bugaboo": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/bugaboo.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/bugaboo.webp",
+          "scale": 1.6
+      }
+    },
+    "QZHvPM0Yatn8oxsj": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/bugul-noz.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/bugul-noz.webp",
+          "scale": 1.6
+      }
+    },
+    "7p4RWS26W5k6vCkH": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/cat-sith.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/cat-sith.webp",
+          "scale": 1.6
+      }
+    },
+    "BBamjhcpvwXGhlbM": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/cavnakash.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/cavnakash.webp",
+          "scale": 1.6
+      }
+    },
+    "7YJHi9niIKpFXXrf": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/celestial-menagerie-bruiser.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/celestial-menagerie-bruiser.webp",
+          "scale": 1.6
+      }
+    },
+    "Chimpanzee Visitant": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/chimpanzee-visitant.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/chimpanzee-visitant.webp",
+          "scale": 1.6
+      }
+    },
+    "s7447jKTaAd4r3Oa": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/ciza.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/ciza.webp",
+          "scale": 1.6
+      }
+    },
+    "Sxip3Rmi0PFpzHNw": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/convergent-giant-eagle.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/convergent-giant-eagle.webp",
+          "scale": 1.6
+      }
+    },
+    "jwcMb71QRhMw94Id": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/convergent-kendley-nathrael.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/convergent-kendley-nathrael.webp",
+          "scale": 1.6
+      }
+    },
+    "DXNDZNHSZxlNXJnk": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/convergent-soldier.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/convergent-soldier.webp",
+          "scale": 1.6
+      }
+    },
+    "Corrosive Lizard": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/corrosive-lizard.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/corrosive-lizard.webp",
+          "scale": 1.6
+      }
+    },
+    "wi94WddixQEID9Jl": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/corrupted-priest.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/corrupted-priest.webp",
+          "scale": 1.6
+      }
+    },
+    "Q3Z0rIINoWYxVSrS": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/corrupted-retainer.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/corrupted-retainer.webp",
+          "scale": 1.6
+      }
+    },
+    "29NHB8DNNAbEk5Va": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/counteflora.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/counteflora.webp",
+          "scale": 1.6
+      }
+    },
+    "N8ekzW9snBA2YAKv": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/cu-sith.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/cu-sith.webp",
+          "scale": 1.6
+      }
+    },
+    "Daring Danika": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/daring-danika.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/daring-danika.webp",
+          "scale": 1.6
+      }
+    },
+    "bJUlb2DxT1xyaYAp": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/darklands-alchemical-golem.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/darklands-alchemical-golem.webp",
+          "scale": 1.6
+      }
+    },
+    "hz2uoBS8DFOWshko": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/darricus-stallit.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/darricus-stallit.webp",
+          "scale": 1.6
+      }
+    },
+    "18Y3yoYcEGoLcmDy": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/death-drider.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/death-drider.webp",
+          "scale": 1.6
+      }
+    },
+    "GuJJJzmjLKbkZUur": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/deghuun.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/deghuun.webp",
+          "scale": 1.6
+      }
+    },
+    "qKHkamxIPbqxEiwp": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/delamar-gianvin.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/delamar-gianvin.webp",
+          "scale": 1.6
+      }
+    },
+    "igd75rbnUbYBNyYw": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/doblagub.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/doblagub.webp",
+          "scale": 1.6
+      }
+    },
+    "yqH59ltUd0f3kLLL": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/drow-bodyguard-golem.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/drow-bodyguard-golem.webp",
+          "scale": 1.6
+      }
+    },
+    "Drunken Brawler": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/drunken-brawler.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/drunken-brawler.webp",
+          "scale": 1.6
+      }
+    },
+    "NgmbMRekIHiA44lg": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/dyzallin-shraen.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/dyzallin-shraen.webp",
+          "scale": 1.6
+      }
+    },
+    "BsnU2Hf4a3MuXVPn": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/dyzallins-golem.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/dyzallins-golem.webp",
+          "scale": 1.6
+      }
+    },
+    "R3SbxfWLp8xUvXUP": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/elysian-sheep.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/elysian-sheep.webp",
+          "scale": 1.6
+      }
+    },
+    "i3kQzeKcSoxkNYJb": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/evora-yarket.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/evora-yarket.webp",
+          "scale": 1.6
+      }
+    },
+    "sQvm52N0E5ulBaaq": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/faceless-butcher.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/faceless-butcher.webp",
+          "scale": 1.6
+      }
+    },
+    "wS2SN0dnQMybLzSA": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/flea-swarm.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/flea-swarm.webp",
+          "scale": 1.6
+      }
+    },
+    "C07vwQbz6mKwLRGY": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/gahlepod.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/gahlepod.webp",
+          "scale": 1.6
+      }
+    },
+    "aUDIi3Z0N7IhzaT0": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/giant-aukashungi.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/giant-aukashungi.webp",
+          "scale": 1.6
+      }
+    },
+    "gN8VuDZ8b9dp0Ep0": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/flea-swarm.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/flea-swarm.webp",
+          "scale": 1.6
+      }
+    },
+    "aIT5S2fKgMZ6pVP2": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/ginjana-mindkeeper.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/ginjana-mindkeeper.webp",
+          "scale": 1.6
+      }
+    },
+    "9cwg4cOgvFqtxIQ1": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/gluttondark-babau.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/gluttondark-babau.webp",
+          "scale": 1.6
+      }
+    },
+    "XyHk8ChyuOkJuhVZ": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/guardian-of-the-faithful.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/guardian-of-the-faithful.webp",
+          "scale": 1.6
+      }
+    },
+    "IVpSJcoRLGgUfqW7": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/harrow-doll.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/harrow-doll.webp",
+          "scale": 1.6
+      }
+    },
+    "DJyAXPHQy7OUUw00": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/headless-xulgath.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/headless-xulgath.webp",
+          "scale": 1.6
+      }
+    },
+    "QFScy7QFB7PIeTEa": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/helg-eats-the-eaters.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/helg-eats-the-eaters.webp",
+          "scale": 1.6
+      }
+    },
+    "1vOre5O8t3pQPUp6": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/herecite-of-zevgavizeb.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/herecite-of-zevgavizeb.webp",
+          "scale": 1.6
+      }
+    },
+    "YZcw33uhsPHWKcHM": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/hollow-hush.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/hollow-hush.webp",
+          "scale": 1.6
+      }
+    },
+    "qXC4lGSWxqIhO5tr": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/hooklimb-xulgath.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/hooklimb-xulgath.webp",
+          "scale": 1.6
+      }
+    },
+    "Horba": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/horba.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/horba.webp",
+          "scale": 1.6
+      }
+    },
+    "aqcDvkIaKwJdMEAO": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/iffdahsil.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/iffdahsil.webp",
+          "scale": 1.6
+      }
+    },
+    "x2XcPDPLeCAXITlZ": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/iridescent-elephant.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/iridescent-elephant.webp",
+          "scale": 1.6
+      }
+    },
+    "16cZVZxsXVRHfuuQ": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/jellico-bounce-bounce.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/jellico-bounce-bounce.webp",
+          "scale": 1.6
+      }
+    },
+    "a2FCggU8UCQl6RDx": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/juvenile-boar.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/juvenile-boar.webp",
+          "scale": 1
+      }
+    },
+    "viTyDNdkTo0JPLb8": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/kalkek.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/kalkek.webp",
+          "scale": 1.6
+      }
+    },
+    "bpTQfx4UixMV3Fja": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/kharostan.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/kharostan.webp",
+          "scale": 1.6
+      }
+    },
+    "vxFQrDnQqUpGpQmK": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/kimilekki.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/kimilekki.webp",
+          "scale": 1.6
+      }
+    },
+    "2bu9oGbB7UUTq2sR": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/kirosthrek.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/kirosthrek.webp",
+          "scale": 1.6
+      }
+    },
+    "Plig7vUF9cEY1VBJ": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/lakkai-one-fang.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/lakkai-one-fang.webp",
+          "scale": 1.6
+      }
+    },
+    "Leandrus": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/leandrus.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/leandrus.webp",
+          "scale": 1.6
+      }
+    },
+    "lh3pcyJlUUtNpWcI": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/ledorick-banyan.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/ledorick-banyan.webp",
+          "scale": 1.6
+      }
+    },
+    "xGTl3DVCD0etE6MU": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/ledorick-banyan.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/ledorick-banyan.webp",
+          "scale": 1.6
+      }
+    },
+    "HbxPY2GSxhRu4rVi": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/lion-visitant.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/lion-visitant.webp",
+          "scale": 1.6
+      }
+    },
+    "RIZDryL3Wnk6ucks": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/luminous-ooze.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/luminous-ooze.webp",
+          "scale": 1.6
+      }
+    },
+    "wBlnbLj8FfgxArQm": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/lyrt-cozurn.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/lyrt-cozurn.webp",
+          "scale": 1.6
+      }
+    },
+    "3Fxih1eU4IXABxpy": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/mechanical-carny.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/mechanical-carny.webp",
+          "scale": 1.6
+      }
+    },
+    "QMFlW9qrUKWBOF1Q": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/mistress-dusklight.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/mistress-dusklight.webp",
+          "scale": 1.6
+      }
+    },
+    "jaUUH2i5UQZYQqab": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/muse-phantom.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/muse-phantom.webp",
+          "scale": 1.6
+      }
+    },
+    "B2jQKaAXO7LofE7L": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/muurfeli.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/muurfeli.webp",
+          "scale": 1.6
+      }
+    },
+    "IacftcXDDMBNcKbY": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/nemmia-bramblecloak.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/nemmia-bramblecloak.webp",
+          "scale": 1.6
+      }
+    },
+    "0VzVpqN3Yp0IY3C1": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/nihiris.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/nihiris.webp",
+          "scale": 1.6
+      }
+    },
+    "JRvLtSt9cda4pc8z": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/obsidian-golem.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/obsidian-golem.webp",
+          "scale": 1.6
+      }
+    },
+    "2Ey2VZ3aQlN4FGHJ": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/pin-tingwheely.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/pin-tingwheely.webp",
+          "scale": 1.6
+      }
+    },
+    "KXNSBeUWLxMfd2Zg": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/pinacosaurus.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/pinacosaurus.webp",
+          "scale": 1.6
+      }
+    },
+    "4QgC23j1wzfaCecR": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/pruana-two-punch.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/pruana-two-punch.webp",
+          "scale": 1.6
+      }
+    },
+    "RbrUXZyhqbsglVrr": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/qormintur.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/qormintur.webp",
+          "scale": 1.6
+      }
+    },
+    "iUA3E379TDoEAXz7": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/qurashith.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/qurashith.webp",
+          "scale": 1.6
+      }
+    },
+    "Ffj8PyKkBkYNV6pd": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/raptor-guard-wight.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/raptor-guard-wight.webp",
+          "scale": 1.6
+      }
+    },
+    "0pw0r1w8vO7aRocN": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/resin-seep-xulgath.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/resin-seep-xulgath.webp",
+          "scale": 1.6
+      }
+    },
+    "gZBayD2gJu7iZrud": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/ruanna-nyama.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/ruanna-nyama.webp",
+          "scale": 1.6
+      }
+    },
+    "CQ2682vd4bUtvKQX": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/runkrunk.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/runkrunk.webp",
+          "scale": 1.6
+      }
+    },
+    "fsPWWmIao1eFTAV4": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/sarvel-ever-hunger.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/sarvel-ever-hunger.webp",
+          "scale": 1.6
+      }
+    },
+    "HCxhltvoCdy3RXlH": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/saurian-warmonger.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/saurian-warmonger.webp",
+          "scale": 1.6
+      }
+    },
+    "Xva8XyRrsHB6S7e8": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/saurian-worldwatcher.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/saurian-worldwatcher.webp",
+          "scale": 1.6
+      }
+    },
+    "5tlPKUZroqzycuzD": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/shanchek.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/shanchek.webp",
+          "scale": 1.6
+      }
+    },
+    "YS8UvVGFgHP2TrY3": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/shoony-hierarch.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/shoony-hierarch.webp",
+          "scale": 1.6
+      }
+    },
+    "OCrQtfKDFpLedE13": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/shoony-militia-member.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/shoony-militia-member.webp",
+          "scale": 1.6
+      }
+    },
+    "D0laesU2eB1VOZTX": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/shoony-tiller.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/shoony-tiller.webp",
+          "scale": 1.6
+      }
+    },
+    "S5pcyiSXhMKrMjcC": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/shraen-graveknight.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/shraen-graveknight.webp",
+          "scale": 1.6
+      }
+    },
+    "qCTU0ywtCOgiUM0q": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/skarja.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/skarja.webp",
+          "scale": 1.6
+      }
+    },
+    "U6jOmV5RAkj32qOi": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/smiler.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/smiler.webp",
+          "scale": 1.6
+      }
+    },
+    "rxGByemLAAeM4h29": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/smoldering-leopards.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/smoldering-leopards.webp",
+          "scale": 1.6
+      }
+    },
+    "f4H9d0b1vJvxeFqs": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/sodden-sentinel.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/sodden-sentinel.webp",
+          "scale": 1.6
+      }
+    },
+    "HHy2GazURA6Cx1ee": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/starved-staff.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/starved-staff.webp",
+          "scale": 1.6
+      }
+    },
+    "tPvr9zvUfktMIvYU": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/styrvin-banyan.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/styrvin-banyan.webp",
+          "scale": 1.6
+      }
+    },
+    "Swardlands Delinquent": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/swardlands-delinquent.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/swardlands-delinquent.webp",
+          "scale": 1.6
+      }
+    },
+    "BORxkpaFBSCyB1f1": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/tallow-ooze.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/tallow-ooze.webp",
+          "scale": 1.6
+      }
+    },
+    "CNO54boXvXg7xSP6": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/tanessa-fleer.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/tanessa-fleer.webp",
+          "scale": 1.6
+      }
+    },
+    "j31HXlZiUqQrAHSB": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/tashlock-banyan.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/tashlock-banyan.webp",
+          "scale": 1.6
+      }
+    },
+    "oJJspO9P2vDdtMYd": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/faceless-butcher.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/faceless-butcher.webp",
+          "scale": 1.6
+      }
+    },
+    "CYXoXHr9BoPInIbe": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/thessekka.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/thessekka.webp",
+          "scale": 1.6
+      }
+    },
+    "UKBR2GdXIdg66Nqm": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/ulthadar.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/ulthadar.webp",
+          "scale": 1.6
+      }
+    },
+    "5G8Iokror8QtBhbx": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/urdefhan-dominator.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/urdefhan-dominator.webp",
+          "scale": 1.6
+      }
+    },
+    "IRon2oG76IG28Z4m": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/urdefhan-high-tormentor.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/urdefhan-high-tormentor.webp",
+          "scale": 1.6
+      }
+    },
+    "PYvtflsrA9ITevEq": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/urdefhan-hunter.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/urdefhan-hunter.webp",
+          "scale": 1.6
+      }
+    },
+    "sPuh6Ahatn0Vhn7P": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/urushil.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/urushil.webp",
+          "scale": 1.6
+      }
+    },
+    "i6t819VnEr1ESCAd": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/vavakia.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/vavakia.webp",
+          "scale": 1.6
+      }
+    },
+    "YAKZUBOth75W2mWT": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/vermlek.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/vermlek.webp",
+          "scale": 1.6
+      }
+    },
+    "Viktor Volkano": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/viktor-volkano.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/viktor-volkano.webp",
+          "scale": 1.6
+      }
+    },
+    "lM9j6lc5MkBlGfzD": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/violet.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/violet.webp",
+          "scale": 1.6
+      }
+    },
+    "QcJtBai5JViNFqUC": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/viskithrel.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/viskithrel.webp",
+          "scale": 1.6
+      }
+    },
+    "Z3VrS25uw9vD2sek": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/vitalia.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/vitalia.webp",
+          "scale": 1.6
+      }
+    },
+    "2XRzA5GZeDk88Y2z": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/war-sauropelta.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/war-sauropelta.webp",
+          "scale": 1.6
+      }
+    },
+    "wOzDhkm9sd7IygoS": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/wight-cultist.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/wight-cultist.webp",
+          "scale": 1.6
+      }
+    },
+    "NITxPebTwserqASe": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xilvirek.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xilvirek.webp",
+          "scale": 1.6
+      }
+    },
+    "xWsfcDcgbubVpjow": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-bilebearer.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-bilebearer.webp",
+          "scale": 1.6
+      }
+    },
+    "fvGqCYfVAI3KXnSl": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-bomber.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-bomber.webp",
+          "scale": 1.6
+      }
+    },
+    "4lJiW36oO2iG7jCB": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-deepmouth.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-deepmouth.webp",
+          "scale": 1.6
+      }
+    },
+    "Xulgath Demon-Caller": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-demon-caller.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-demon-caller.webp",
+          "scale": 1.6
+      }
+    },
+    "FZqrluaaz5vhXEZ9": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-gutrager.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-gutrager.webp",
+          "scale": 1.6
+      }
+    },
+    "tg5SrKu228LZkoC0": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-hardscale.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-hardscale.webp",
+          "scale": 1.6
+      }
+    },
+    "I6i1uvFI7VCTyVbM": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-herd-tender.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-herd-tender.webp",
+          "scale": 1.6
+      }
+    },
+    "Xulgath Mage": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-mage.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-mage.webp",
+          "scale": 1.6
+      }
+    },
+    "SBz0ylPxEaUhG2aZ": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-roughrider.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-roughrider.webp",
+          "scale": 1.6
+      }
+    },
+    "uUcqr8gPQIw5govC": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-skirmisher.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-skirmisher.webp",
+          "scale": 1.6
+      }
+    },
+    "I31kJb0DRkzTn8iX": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-spinesnapper.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-spinesnapper.webp",
+          "scale": 1.6
+      }
+    },
+    "uPWqYc05YQ0Q4i0g": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-stoneliege.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-stoneliege.webp",
+          "scale": 1.6
+      }
+    },
+    "YaKW9i3v9nn8Blij": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/xulgath-thoughtmaw.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/xulgath-thoughtmaw.webp",
+          "scale": 1.6
+      }
+    },
+    "jxGA1C8xX0WkJGI4": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/yaganty.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/yaganty.webp",
+          "scale": 1.6
+      }
+    },
+    "OqThOmNrdW3HVa7k": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/zashathal-head-taker.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/zashathal-head-taker.webp",
+          "scale": 1.6
+      }
+    },
+    "G2ICeUU6br5Xem3P": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/zinogyvaz.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/zinogyvaz.webp",
+          "scale": 1.6
+      }
+    },
+    "TdqGpBasgDOUqmNp": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/extinction-curse/zuipnyrn.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/extinction-curse/zuipnyrn.webp",
+          "scale": 1.6
+      }
+    }
   },
   "fists-of-the-ruby-phoenix-bestiary":{
 		"Abbot Tsujon": {
@@ -12568,13 +13544,13 @@
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/outlaws-of-alkenstar/Drela.webp",
       "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/outlaws-of-alkenstar/Drela.webp"
   },
-  "Follower of Shumfallow": {
+  "0hy54Fyobwdb7AGN": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/outlaws-of-alkenstar/.webp",
       "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/outlaws-of-alkenstar/.webp"
   },
   "2IjwfgmGutHhpg7B": {
-      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/outlaws-of-alkenstar/Gilded-Gunner-Assassin.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/outlaws-of-alkenstar/Gilded-Gunner-Assassin.webp"
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/outlaws-of-alkenstar/Follower-of-Shumfallow.webp",
+      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/outlaws-of-alkenstar/Follower-of-Shumfallow.webp"
   },
   "aJCzNXYDKsTGyaaN": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/outlaws-of-alkenstar/Gilded-Gunner-Goon.webp",
@@ -15274,11 +16250,17 @@
   "stolen-fate-bestiary": {
     "okLgvERf3ul8JxKk": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/All-Seeing-Hajeck.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/All-Seeing-Hajeck.webp"
+        "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/All-Seeing-Hajeck.webp",
+          "scale": 1.5
+      }
     },
-    "Aquatic Viper Vine": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "lJnVbE89rKEYJ3Hw": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Aquatic-Viper-Vine.webp",
+        "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Aquatic-Viper-Vine.webp",
+          "scale": 1.5
+      }
     },
     "oWFqioYktqayWFlS": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Arodeth.webp",
@@ -15287,9 +16269,12 @@
             "scale": 1.5
         }
     },
-    "Arzuu": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "vooxDReQX3ztMXNj": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Arzuu.webp",
+        "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Arzuu.webp",
+          "scale": 1.5
+      }
     },
     "eF3ndkXtyeMHpzZb": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Bhanyada-Behemoth.webp",
@@ -15326,34 +16311,55 @@
             "scale": 1.5
         }
     },
-    "Blood-Pear Tree": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "zw2JQhb4cHkDk2zb": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Blood-Pear-Tree.webp",
+        "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Blood-Pear-Tree.webp",
+          "scale": 2
+      }
+  },
+    "LhyMBLVsJMaUKGME": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Bolti-Sorrinson.webp",
+        "token": {
+          "img": "modules/pf2e-ap191-the-destiny-war/assets/tokens/Crystalline%20Sentinel%20and%20Arzuu.webp",
+          "scale": 1.5
+      }
+  },    
+    "2J1wbM7u7rU7yDzo": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Crystal-Sentinel.webp",
+        "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Crystal-Sentinel.webp",
+          "scale": 1.5
+      }
     },
-    "Bolti Sorrinson": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "26mSMWZwuYBRDhBM": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Arzuu.webp",
+        "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Arzuu.webp",
+          "scale": 1.5
+      }
     },
-    "Crystal Sentinel": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "2crt0oeOnu3G3Nhw": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Demongate-Colossus.webp",
+        "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Demongate-Colossus.webp",
+          "scale": 1.5
+      }
+  },
+    "mLDzt35dEHUimp1E": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Demonic-Rabble.webp",
+        "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Demonic-Rabble.webp",
+          "scale": 2
+      }
     },
-    "Crystalline Sentinel": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
-    },
-    "Demongate Colossus": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
-    },
-    "Demonic Rabble": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
-    },
-    "Derhii": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
-    },
+    "Rb85EObfBTL5Q3tU": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Derhii.webp",
+        "token": {
+          "img": "modules/pf2e-ap191-the-destiny-war/assets/tokens/Derhii.webp",
+          "scale": 2
+      }
+    }, 
     "Bn7bG2gbyXYj7mzT": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Dieral-Myrnese.webp",
         "token": {
@@ -15361,9 +16367,12 @@
             "scale": 1.5
         }
     },
-    "Diskrasia The Sharp": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "WddCUSjH70mHmzK3": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Diskrasia-The-Sharp.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Diskrasia-The-Sharp.webp",
+                "scale": 1.5
+            }
     },
     "nBhR5WE7M1cp1fEm": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Drustan.webp",
@@ -15379,21 +16388,33 @@
             "scale": 3
         }
     },
-    "Ephialtes": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "334vtiUd5J507PsX": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Ephialtes.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Ephialtes.webp",
+                "scale": 1.5
+            }
     },
-    "Fabled Harrowkin": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "5jXQKIwhlOfs9F6e": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Harrowkin.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Harrowkin.webp",
+                "scale": 1.5
+            }
     },
-    "Fabrina The Spinster": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "TQXPhj5Adm4pfX31": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Fabrina-The-Spinster.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Fabrina-The-Spinster.webp",
+                "scale": 1.5
+            }
     },
-    "Fate_s Prophet": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "ZBMuaCCbIdv8euNx": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Fates-Prophet.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Fates-Prophet.webp",
+                "scale": 1.5
+            }
     },
     "0C9muUhjn4vAL5UW": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Ferrugon.webp",
@@ -15402,25 +16423,40 @@
             "scale": 2
         }
     },
-    "Gegnir": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "KgwkUtJ8czIC0KFj": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Gegnir.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Gegnir.webp",
+                "scale": 1.5
+            }
     },
-    "Ghalzarokh": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "9uUmyAyVVq3bowo7": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Ghalzarokh.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Ghalzarokh.webp",
+                "scale": 1.5
+            }
     },
-    "Guardian Aluum": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "KPwAtJ0wFmMTFfWV": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Guardian-Aluum.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Guardian-Aluum.webp",
+                "scale": 1.5
+            }
     },
-    "Hadi Mob": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "jH57QwQxH7aBs56G": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Hadi-Mob.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Hadi-Mob.webp",
+                "scale": 1.5
+            }
     },
-    "Hala The Rod": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "P604YfY14wo4Uu56": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Hala-The-Rod.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Hala-The-Rod.webp",
+                "scale": 1.5
+            }
     },
     "bsjCqkz0jIv9LOBS": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Harpy-Warbird.webp",
@@ -15436,9 +16472,12 @@
             "scale": 1.5
         }
     },
-    "Ildamir": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "hqnAjx8pamSAzAmb": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Ildamir.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Ildamir.webp",
+                "scale": 1.5
+            }
     },
     "590fsfQ1S0dF1C3Z": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Kannijo.webp",
@@ -15447,13 +16486,19 @@
             "scale": 1.5
         }
     },
-    "Katpaskir": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "s8pBIwZjOdep4Lfp": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Katpaskir.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Katpaskir.webp",
+                "scale": 1.5
+            }
     },
-    "Markish Aghayarea": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "J7QJMfQZlOd7DOq5": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Markish-Aghayarea.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Markish-Aghayarea.webp",
+                "scale": 1.5
+            }
     },
     "pFs3lFkXrwNNUsDf": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Mercenary-Assassin.webp",
@@ -15462,9 +16507,12 @@
             "scale": 1.5
         }
     },
-    "Mighty Bul-Gae": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "JkEOtgyLkiuw5Nod": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Mighty-Bul-Gae.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Mighty-Bul-Gae.webp",
+                "scale": 1.5
+            }
     },
     "d68XkPVTpU42q8Gj": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Mivanian-Soldier.webp",
@@ -15473,9 +16521,12 @@
             "scale": 1.5
         }
     },
-    "Mogaran": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "RLuLdBW6SSs9u2hL": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Mogaran.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Mogaran.webp",
+                "scale": 2
+            }
     },
     "Zglw4NiZRVgmuI5x": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Ndede.webp",
@@ -15484,13 +16535,19 @@
             "scale": 1.5
         }
     },
-    "Nornhound": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "zsITxVss3vTQHISh": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Nornhound.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Nornhound.webp",
+                "scale": 1.5
+            }
     },
-    "Obcisidaemon": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "eC0O1nNWMjWydbPG": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Obcisidaemon.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Obcisidaemon.webp",
+                "scale": 1.5
+            }
     },
     "mJyUqZYPGrCx13oT": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Oppali.webp",
@@ -15499,20 +16556,26 @@
             "scale": 1.5
         }
     },
-    "Phasmadaemon": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "laVap7VG0MRaoQnO": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Phasmadaemon.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Phasmadaemon.webp",
+                "scale": 1.5
+            }
     },
-    "Queen Kawlinawk": {
+    "88n1uQqK5XbIGnUF": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Queen-Kawlinawk.webp",
         "token": {
             "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Queen-Kawlinawk.webp",
             "scale": 1.5
         }
     },
-    "Quoppopak Mummy": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "VCn8GC3XXCES5Cns": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Quoppopak-Mummy.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Quoppopak-Mummy.webp",
+                "scale": 1.5
+            }
     },
     "Yg5xl1lu0211JVi7": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Raskus.webp",
@@ -15521,9 +16584,12 @@
             "scale": 1.5
         }
     },
-    "Raven Nicoletta": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "XJocGEuiyg9TJiti": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Raven-Nicoletta.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Raven-Nicoletta.webp",
+                "scale": 1.5
+            }
     },
     "tVZ7ijV3W1HmMwzz": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Scaleseed-Nagaji.webp",
@@ -15539,125 +16605,215 @@
             "scale": 1.5
         }
     },
-    "Sickened Doprillu": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "QiRja8LrBQUwh6St": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Sickened-Doprillu.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Sickened-Doprillu.webp",
+                "scale": 1.5
+            }
     },
-    "Simple Harrowkin": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "7SoxdXIjPQzUahDz": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Harrowkin.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Harrowkin.webp",
+                "scale": 1.5
+            }
     },
-    "Sonnorae": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "9CR1pTY23jFPi5Xn": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Sonnorae.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Sonnorae.webp",
+                "scale": 1.5
+            }
     },
-    "Speaker Of Svaryr": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "mcCHcnMN1gYBHbqA": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Speaker-Of-Svaryr.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Speaker-Of-Svaryr.webp",
+                "scale": 1.5
+            }
     },
-    "Storied Harrowkin": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "a3NvKzSDBQzPwCc4": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Harrowkin.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Harrowkin.webp",
+                "scale": 1.5
+            }
     },
-    "Suvarden": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "UQabwMtqQucqBDsy": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Ildamir.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Ildamir.webp",
+                "scale": 1.5
+            }
     },
-    "Svaryr Commander": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "qHCZeqTMADZcqqBp": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Svaryr-Commander.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/varyr-Commander.webp",
+                "scale": 1.5
+            }
     },
-    "Svaryr Soldier": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "c5PsLzWosNiKXU6o": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Svaryr-Soldier.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Svaryr-Soldier.webp",
+                "scale": 1.5
+            }
     },
-    "The Betrayal": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "GzkJGkSYO512zr80": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Betrayal.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Betrayal.webp",
+                "scale": 1.5
+            }
     },
-    "The Courtesan": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "Q2LlaVrQAl5BxG0E": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Courtesan.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Courtesan.webp",
+                "scale": 1.5
+            }
     },
-    "The Cricket": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "gmY1qb5fZFsc80d0": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Cricket.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Cricket.webp",
+                "scale": 1.5
+            }
     },
-    "The Crows": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "4kD2KUouTP95mkxy": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Crows.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Crows.webp",
+                "scale": 2
+            }
     },
-    "The Dance": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "HncSxwlRvg3gtlks": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Dance.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Dance.webp",
+                "scale": 1.5
+            }
     },
-    "The Fool": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "H1gnvsCIzt89left": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Fool.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Fool.webp",
+                "scale": 1.5
+            }
     },
-    "The Inquisitor": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "dr6JPHvDMs9YavIq": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Inquisitor.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Inquisitor.webp",
+                "scale": 1.5
+            }
     },
-    "The Joke": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "EkPs0okirh66YKa0": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Joke.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Joke.webp",
+                "scale": 1.5
+            }
     },
-    "The Keeper": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "Ig4g6cJOqCVOJiLv": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Keeper.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Keeper.webp",
+                "scale": 2
+            }
     },
-    "The Peacock": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "58rzKemMr1sFBTfv": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Peacock.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Peacock.webp",
+                "scale": 1.5
+            }
     },
-    "The Prince of Wolves": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "asagrj8H4W7ioops": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Prince-of-Wolves.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Prince-of-Wolves.webp",
+                "scale": 1.5
+            }
     },
-    "The Queen Mother": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "KxJBLDk06713Aupl": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Queen-Mother.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Queen-Mother.webp",
+                "scale": 1.5
+            }
     },
-    "The Shadow Prince": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "jXjo59pIAMteUtUD": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Shadow-Prince.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Shadow-Prince.webp",
+                "scale": 2
+            }
     },
-    "The Teamster": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "dbzt5TU3fXSManTU": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Teamster.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Teamster.webp",
+                "scale": 1.5
+            }
     },
-    "The Trader": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "M8Ud2zb5KwfocEd2": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Trader.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Trader.webp",
+                "scale": 1.5
+            }
     },
-    "The Twin": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "6aK7JsTs5zVTjyZN": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Twin.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Twin.webp",
+                "scale": 1.5
+            }
     },
-    "The Unicorn": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "GF2jJ55guDQX3sWt": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Unicorn.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Unicorn.webp",
+                "scale": 1.5
+            }
     },
-    "The Wanderer": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "cm2OW6wghO7xIC0R": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Wanderer.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Wanderer.webp",
+                "scale": 2
+            }
     },
-    "The Winged Serpent": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "o8DGfZKaz1TELyzU": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/The-Winged-Serpent.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/The-Winged-Serpent.webp",
+                "scale": 1.5
+            }
     },
-    "Ticktock": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "jYHPxFsTUS6jGY4a": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Ticktock.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Ticktock.webp",
+                "scale": 1.2
+            }
     },
-    "Torgral": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "a5B1GrGkM97l20Wk": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Ghalzarokh.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Ghalzarokh.webp",
+                "scale": 1.5
+            }
     },
-    "Trexima Butoi": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "25cRUcUTP3rK5qjU": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Trexima-Butoi.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Trexima-Butoi.webp",
+                "scale": 2
+            }
     },
     "WguseVujp1LjEzq4": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Uniila.webp",
@@ -15673,13 +16829,19 @@
             "scale": 1.5
         }
     },
-    "Usilket": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "VoGTpuwRkzzqwMgS": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Usilket.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Usilket.webp",
+                "scale": 1.5
+            }
     },
-    "Vehanezhad": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "6z5AD99UV8IWMtRU": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Vehanezhad.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Vehanezhad.webp",
+                "scale": 2
+            }
     },
     "mgFca9LCxEI3pqc7": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Vharnev-the-Butcher.webp",
@@ -15688,21 +16850,33 @@
             "scale": 2
         }
     },
-    "Vincuvicar": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "fcMf5NrHPZS54Hkd": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Vincuvicar.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Vincuvicar.webp",
+                "scale": 2
+            }
     },
-    "Voricose": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "Cj0oleWD4YOmT1Mn": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Voricose.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Voricose.webp",
+                "scale": 2
+            }
     },
-    "Wrath Riot": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "FHBQg45hdMXLqy3I": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Wrath-Riot.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Wrath-Riot.webp",
+                "scale": 1.5
+            }
     },
-    "Xiuli Cachu": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "31xsWAhXQnk2jfIx": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Xiuli-Cachu.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Xiuli-Cachu.webp",
+                "scale": 1.5
+            }
     },
     "u5o9uU9Saweij7mF": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Hurlilu.webp",
@@ -15711,9 +16885,12 @@
             "scale": 1.5
         }
     },
-    "Zellara Esmeranda": {
-        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/.webp"
+    "sl9QX8iAen1Aquyp": {
+        "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/stolen-fate/Zellara-Esmeranda.webp",
+        "token": {
+                "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/stolen-fate/Zellara-Esmeranda.webp",
+                "scale": 1.5
+            }
     }
 },
   "book-of-the-dead-bestiary": {
