@@ -8253,9 +8253,9 @@
       }
     },
     "4GXL5FLmN7IxPzVC": {
-      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/bestiary/monster-core/gigantopithecus.webp",
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/bestiary/monster-core/gorilla.webp",
       "token": {
-        "img": "modules/PF2e-Bestiary-Token-Pack/tokens/bestiary/monster-core/gigantopithecus.webp",
+        "img": "modules/PF2e-Bestiary-Token-Pack/tokens/bestiary/monster-core/gorilla.webp",
         "scale": 1
       }
     },
