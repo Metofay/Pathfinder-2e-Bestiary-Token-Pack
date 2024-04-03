@@ -13170,15 +13170,24 @@
   "gatewalkers-bestiary": {
     "Abyssal Muckrager": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-        "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+        "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Ainamuuren": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Alkoasha": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "7VoxPNp1BMlhGrss": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/Amelekana.webp",
@@ -13189,27 +13198,45 @@
     },
     "Ancient Tupilaq": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Apothecary's Cabinet": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Aspect of Ruun": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Blackfrost Guecubu": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Blackfrost Prophet": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Blackfrost Zombie": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "qsRrYCsKLiMwZ1I9": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/Bolan-Nogasso.webp",
@@ -13217,7 +13244,10 @@
     },
     "Capstan Swabbie": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "EfoaqozIWUdm8unh": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/Captain-Salah.webp",
@@ -13235,7 +13265,10 @@
     },
     "Crownbound Constellation": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "bz5OjD8rYMm1M4EC": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/Delphon.webp",
@@ -13246,7 +13279,10 @@
     },
     "Demontangle": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "CBCMrAi44SYguevM": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/Desa-Desa.webp",
@@ -13254,43 +13290,73 @@
     },
     "Dreamscraper": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Elder Thing": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Elder Thing Researcher": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Equendia": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Etward Ritalson": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Ghodrak the Quick": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Glimmervine": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Green Monkey": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Ilakni": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Ilverani Sentry": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "X7ScCatwncmk5P9o": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/Immolis.webp",
@@ -13309,23 +13375,38 @@
     },
     "Kitari Lambossa": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Kithangian": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Kvernknurr": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Mindmoppet": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Myroga": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "kneoApQfhlRhhp1R": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/Oaksteward-Enforcer.webp",
@@ -13341,15 +13422,24 @@
     },
     "Ogmunzorius": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Pholebis": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Protosoul": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "itAkkjCM3EUQ4heC": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/Quarry-Construct.webp",
@@ -13360,23 +13450,38 @@
     },
     "Sakuachi": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Skin Beetle": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Skin Beetle Swarm": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Snowy Owl": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Stone-Breasted Owl": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "HypIeplCDn0Phqs4": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/Symbiotic-Amoeba.webp",
@@ -13388,7 +13493,10 @@
     },
     "The Guest": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "cgCENLL4fwwGxvzo": {
         "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/The-Looksee-Man.webp",
@@ -13400,15 +13508,24 @@
     },
     "Valmar": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Vhisa Resgrido": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     },
     "Yaiafineti": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/gatewalkers/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/gatewalkers/.webp",
+          "scale": 1.6
+      }
     }
 },
 "outlaws-of-alkenstar-bestiary": {
@@ -13545,8 +13662,8 @@
       "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/outlaws-of-alkenstar/Drela.webp"
   },
   "0hy54Fyobwdb7AGN": {
-      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/outlaws-of-alkenstar/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/outlaws-of-alkenstar/.webp"
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/outlaws-of-alkenstar/Follower-of-Shumfallow.webp",
+      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/outlaws-of-alkenstar/Follower-of-Shumfallow.webp"
   },
   "2IjwfgmGutHhpg7B": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/outlaws-of-alkenstar/Follower-of-Shumfallow.webp",
@@ -15294,6 +15411,10 @@
 			"actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/quest-for-the-frozen-flame/Tar_Zombie_Mammoth.webp",
       "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/quest-for-the-frozen-flame/Tar_Zombie_Mammoth_t.webp"  
 		},
+    "L3PGythRjyCdM322": {
+			"actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/quest-for-the-frozen-flame/Tar_Zombie_Snatcher.webp",
+      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/quest-for-the-frozen-flame/Tar_Zombie_Snatcher_t.webp"  
+		},
     "Z637TaszmZsJTmBZ": {
 			"actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/quest-for-the-frozen-flame/Tar_Zombie_Snatcher.webp",
       "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/quest-for-the-frozen-flame/Tar_Zombie_Snatcher_t.webp"  
@@ -15824,6 +15945,13 @@
           "scale": 1.0
       }
   },
+  "Ashrin": {
+      "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
+  },
   "gPJhsS9xmNKK0ysU": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Blacknoon-Apprentice.webp",
       "token": {
@@ -15833,15 +15961,24 @@
   },
   "Bloodseeker Swarm": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Bronwyl Holloward": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Caligni Assassin": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "AngiDlZ45l632ZrI": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Corrupted-Blade-Spirit.webp",
@@ -15852,27 +15989,45 @@
   },
   "Crimson Worm Statue": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Cultist Troop": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Dwarven Monster Hunter": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Enraged Dream": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Ether Sprite": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Ether Sprite Swarm": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "nZRBTydsYvrh40xu": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Fazil.webp",
@@ -15890,15 +16045,24 @@
   },
   "Flames of Taargick": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Four-Tooth": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Giant Bloodseeker": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "8mPOfXAKoc5FcPVI": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Giant-Leech.webp",
@@ -15909,19 +16073,31 @@
   },
   "Glacial Worm": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Gray Worm": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Hagegraf Royal Guard": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Heartbroken Dream": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "xuKlDtvqQvbpGWt4": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Heldin-Ulgincamp.webp",
@@ -15939,43 +16115,73 @@
   },
   "Hrungul Ironeye": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Hryngar Assassin": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Hryngar Battlepriest": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Hryngar Breccia Squad": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Hryngar Forgepriest": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Hryngar King's Agent": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Hryngar Officer": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Hryngar Rager": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Hryngar Skull Collector": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Hryngar Veteran": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "zMoOfK6QSycciTaG": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Hyphae-Tyrant.webp",
@@ -15993,23 +16199,38 @@
   },
   "Juvenile Cave Worm (Azure)": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Juvenile Cave Worm (Crimson)": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Juvenile Cave Worm (Glacial)": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Juvenile Cave Worm (Gray)": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Juvenile Cave Worm (Rock)": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "LjBz0fe7txNp37Cv": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Krohan.webp",
@@ -16034,31 +16255,52 @@
   },
   "Larval Cave Worm Brood (Azure)": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Larval Cave Worm Brood (Crimson)": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Larval Cave Worm Brood (Glacial)": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Larval Cave Worm Brood (Grey)": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Larval Cave Worm Brood (Rock)": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Mumkuh": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Narseigus Wormcaller": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "l61LDYRBzhgJAKUL": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Plague-Zombie.webp",
@@ -16069,11 +16311,17 @@
   },
   "Redcap Cavalry": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Shambler Troop": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "jcd1gtnFTvQ3jzPS": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Hyphae-Tyrant.webp",
@@ -16084,11 +16332,17 @@
   },
   "Slime Puppeteer": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Soulbound Doll (Sky King's Tomb)": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "sRo7iGYaeXlvrYaf": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Soulbound-Mauler.webp",
@@ -16183,11 +16437,17 @@
   },
   "Stoneriver": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Toilforged Sentinel": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "VAxAbzTdnwo7lS1Y": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Tuom-Molgrade.webp",
@@ -16198,11 +16458,17 @@
   },
   "Ulat-Kini Initiate": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Ulat-Kini Mindreaver": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "pxumZcF8zSjJ3B7g": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Ulki.webp",
@@ -16220,11 +16486,17 @@
   },
   "Veavieve": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "Voxnia": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/.webp",
-      "token": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb.webp"
+      "token": {
+          "img": "modules/PF2e-Bestiary-Token-Pack/tokens/adventure-patch/sky-kings-tomb/.webp",
+          "scale": 1.0
+      }
   },
   "G7RxS2VvwZDZs0fa": {
       "actor": "modules/PF2e-Bestiary-Token-Pack/portraits/adventure-patch/sky-kings-tomb/Xulgath-Ravening.webp",
