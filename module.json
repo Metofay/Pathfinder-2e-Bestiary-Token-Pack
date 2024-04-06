@@ -2,7 +2,7 @@
   "id": "PF2e-Bestiary-Token-Pack",
   "title": "Pathfinder 2e: Bestiary Token Pack",
   "description": "Модуль добавляет изображения и токены монстрам и нпс",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
