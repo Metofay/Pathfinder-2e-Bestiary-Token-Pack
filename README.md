@@ -27,7 +27,6 @@ Adventure Patch:
 9.	sky-kings-tomb
 10.	stolen-fate
 11.	extinction-curse
-12.	stolen-fate
 
 Ruleboock: (не полный/not complete)
 
