@@ -31,9 +31,14 @@ Adventure Patch:
 Ruleboock: (не полный/not complete)
 
 1.	book-of-the-dead 
-2.	lost-omens-mwangi-expanse
-3.	lost-omens-monsters-of-myth
-4.	npc-gallery
+2.  Paizo Blog
+3.  lost-omens-impossible-lands
+4.	lost-omens-mwangi-expanse
+5.  lost-omens-highhelm
+6.	lost-omens-monsters-of-myth
+7.  lost-omens-travel-guide
+8.	npc-gallery
+9.  rage-of-elements
 
 Standalone Adventures
 
@@ -48,3 +53,5 @@ Standalone Adventures
 9.	night-of-the-gray-death
 10.	crown-of-the-kobold-king
 
+Other:
+1. pregenerated-pCs
