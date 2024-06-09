@@ -1,7 +1,6 @@
 [![Version (latest)](https://img.shields.io/github/v/release/Metofay/Pathfinder-2e-Bestiary-Token-Pack)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/releases/latest)
 ![GitHub release](https://img.shields.io/github/release-date/Metofay/Pathfinder-2e-Bestiary-Token-Pack)
-![GitHub all releases](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/total)
-![the latest version zip](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/latest/Pathfinder-2e-Bestiary-Token-Pack.zip)
+![GitHub all releases](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/total) ![the latest version zip](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/latest/Pathfinder-2e-Bestiary-Token-Pack.zip)
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/README-en.md)
 
