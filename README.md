@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxdy%2Fxdy-pf2e-workbench%2Fmain%2Fpackage.json&label=version&query=$.version&colorB=blue)
+![](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%Metofay%2Pathfinder-2e-Bestiary-Token-Pack%2Fmain%2Fpackage.json&label=version&query=$.version&colorB=blue)
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/README-en.md)
 
