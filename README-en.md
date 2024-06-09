@@ -2,21 +2,19 @@
 ![All Downloads](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/total)
 ![Latest Release Download Count](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/latest/module.zip)
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/README-en.md)
-
 ## Pathfinder-2e-Bestiary-Token-Pack
-Данный модуль предназначен для программы Foundry VTT, добавляет арты/токены бестиария и АП в систему НРИ Pathfinder 2e.
+This module is designed for the Foundry VTT program, adds bestiary and API art/tokens to the Pathfinder 2e system
 
-<b><i>В данном модуле присутствуют арты/токены для:</i></b>
+<b><i>This module contains art/tokens for:</i></b>
 
-<b>Бестиарий:</b>
+<b>Bestiaries:</b>
 
 1.	Bestiary 1
 2.	Bestiary 2
 3.	Bestiary 3
 4.	Monster core
 
-<b>Пути Приключений:</b>
+<b>Adventure Patch:</b>
 
 1.	Abomination Vaults
 2.	Age of Ashes
@@ -34,7 +32,7 @@
 14. Seven Dooms for Sandpoint
 15. Strength of Thousands
 
-<b>Книга правил:</b>
+<b>Ruleboock:</b>
 
 1. Book of the Dead
 2. Paizo Blog
@@ -47,7 +45,7 @@
 9. Rage of Elements
 10. Dark Archive
 
-<b>Приключения</b>
+<b>Standalone Adventures</b>
 
 1. Fall of Plaguestone
 2. Malevolence
@@ -61,6 +59,6 @@
 10. Crown of the Kobold King
 11. One-Shots
 
-<b>Прочее:</b>
+<b>Other:</b>
 
 1. Pregenerated PCs
