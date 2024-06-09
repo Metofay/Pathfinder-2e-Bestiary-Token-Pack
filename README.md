@@ -1,11 +1,12 @@
 [![Version (latest)](https://img.shields.io/github/v/release/Metofay/Pathfinder-2e-Bestiary-Token-Pack)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/releases/latest)
-![GitHub release](https://img.shields.io/github/release-date/Metofay/Pathfinder-2e-Bestiary-Token-Pack)
-![GitHub all releases](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/total) ![the latest version zip](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/latest/Pathfinder-2e-Bestiary-Token-Pack.zip)
+![Data-release](https://img.shields.io/github/release-date/Metofay/Pathfinder-2e-Bestiary-Token-Pack)
+![Downloads](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/total?label=All%20downloads)
+![Downloads-lates](https://img.shields.io/github/downloads-pre/Metofay/Pathfinder-2e-Bestiary-Token-Pack/latest/total)
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/README-en.md)
 
 ## Pathfinder-2e-Bestiary-Token-Pack
-Данный модуль предназначен для программы Foundry VTT, добавляет арты/токены бестиария и АП в систему НРИ Pathfinder 2e. 
+Данный модуль предназначен для программы Foundry VTT, добавляет арты/токены бестиария и АП в систему НРИ Pathfinder 2e.
 
 <b><i>В данном модуле присутствуют арты/токены для:</i></b>
 
