@@ -2,6 +2,10 @@
 ![All Downloads](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/total)
 ![Latest Release Download Count](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/latest/module.zip)
 
+[![Downloads][latest-download]][latest-download-url]
+[latest-download]: https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/latest/module.zip?color=5D4A66&label=DOWNLOADS&style=for-the-badge
+[latest-download-url]: https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/releases/latest
+
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/README-en.md)
 
 ## Pathfinder-2e-Bestiary-Token-Pack
@@ -64,3 +68,4 @@
 <b>Прочее:</b>
 
 1. Pregenerated PCs
+
