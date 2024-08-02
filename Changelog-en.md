@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.2.0
+1. Added tokens for the Strength of Thousands API, forgot to add
+2. Updated Monster Core (from a new separate module)
+
 ## Version 1.1.0
 1. Added Dark Archive
 2. Added One-Shots (i had to cut out four leshies manually from group art. Decided not to color Meliosas-Leshy-WisteriaMeliosas-Leshy-Wisteria)
