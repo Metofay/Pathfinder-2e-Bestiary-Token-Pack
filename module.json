@@ -42,8 +42,8 @@
     }
   ],
   "url": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack",
-  "manifest": "https://raw.githubusercontent.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack//main/module.json",
-  "download": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/archive/refs/heads/main.zip",
+  "manifest": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/releases/latest/download/module.json",
+  "download": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/releases/download/1.2.0/module.zip",
   "readme": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/main/README.md",
   "bugs": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/issues",
   "changelog": "https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/CHANGELOG.md"
