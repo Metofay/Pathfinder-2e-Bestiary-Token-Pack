@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 1.3.0
+1. Added AP Wardens of Wildwood
+2. Added Rulebooks Howl of the Wild
+3. Added Rulebooks Lost Omens Tian Xia World Guide
+4. Added code and folders for the Curtain Call API
+5. Added Adventure Prey for Death
+
 ## Version 1.2.0
 1. Added tokens for the Strength of Thousands API, forgot to add
 2. Updated Monster Core (from a new separate module)

@@ -20,12 +20,15 @@ class PathfinderBestiaryTokenPack {
       { key: "sky-kings-tomb-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Sky King's Tomb Bestiary") },
       { key: "strength-of-thousands-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Strength of Thousands Bestiary") },
       { key: "stolen-fate-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Stolen Fate Bestiary") },
-      { key: "lost-omens-impossible-lands-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Lost Omens Impossible Lands Bestiary") },
+      { key: "wardens-of-wildwood-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Wardens of Wildwood Bestiary") },
       { key: "book-of-the-dead-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Book of the Dead Bestiary") },
       { key: "blog-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Paizo Blog Bestiary") },
+      { key: "howl-of-the-wild-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Howl of the Wild Bestiary") },
+      { key: "lost-omens-impossible-lands-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Lost Omens Impossible Lands Bestiary") },
       { key: "lost-omens-mwangi-expanse-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Lost Omens Mwangi Expanse Bestiary") },
       { key: "lost-omens-highhelm-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Lost Omens Highhelm Bestiary") },
       { key: "lost-omens-monsters-of-myth-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Lost Omens Monsters of Myth Bestiary") },
+      { key: "lost-omens-tian-xia-world-guide", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Lost Omens Tian Xia World Guide Bestiary") },
       { key: "lost-omens-travel-guide-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Lost Omens Travel Guide Bestiary") },
       { key: "npc-gallery", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.NPC Gallery") },
       { key: "pathfinder-dark-archive", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Pathfinder Dark Archive") },
@@ -34,6 +37,7 @@ class PathfinderBestiaryTokenPack {
       { key: "malevolence-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Malevolence Bestiary") },
       { key: "menace-under-otari-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Menace Under Otari Bestiary") },
       { key: "one-shot-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.One Shot Bestiary") },
+      { key: "prey-for-death-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Prey for Death Bestiary") },
       { key: "rusthenge-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Rusthenge Bestiary") },
       { key: "shadows-at-sundown-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Shadows at Sundown Bestiary") },
       { key: "the-enmity-cycle-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.The Enmity Cycle Bestiary") },
@@ -189,7 +193,7 @@ class PathfinderBestiaryTokenPack {
     // Доп заголовки
     $('<h2>').addClass('form-group group-header').html(game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.bestiaries")).insertBefore('[data-setting-id="Pathfinder-2e-Bestiary-Token-Pack.enableOverwritepathfinder-bestiary"]');
     $('<h2>').addClass('form-group group-header').html(game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.adventure path")).insertBefore('[data-setting-id="Pathfinder-2e-Bestiary-Token-Pack.enableOverwriteabomination-vaults-bestiary"]');
-    $('<h2>').addClass('form-group group-header').html(game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.rulebook")).insertBefore('[data-setting-id="Pathfinder-2e-Bestiary-Token-Pack.enableOverwritelost-omens-impossible-lands-bestiary"]');
+    $('<h2>').addClass('form-group group-header').html(game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.rulebook")).insertBefore('[data-setting-id="Pathfinder-2e-Bestiary-Token-Pack.enableOverwritebook-of-the-dead-bestiary"]');
     $('<h2>').addClass('form-group group-header').html(game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.standalone adventure")).insertBefore('[data-setting-id="Pathfinder-2e-Bestiary-Token-Pack.enableOverwritefall-of-plaguestone-bestiary"]');
     $('<h2>').addClass('form-group group-header').html(game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.pregenerated pcs")).insertBefore('[data-setting-id="Pathfinder-2e-Bestiary-Token-Pack.enableOverwritepaizo-pregens"]');
 

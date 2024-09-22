@@ -2,6 +2,13 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/Changelog-en.md)
 
+## Version 1.3.0
+1. Добавлен АП Wardens of Wildwood
+2. Добавлен Rulebooks Howl of the Wild
+3. Добавлен Rulebooks Lost Omens Tian Xia World Guide
+4. Добавлен код и папки для АП Curtain Call
+5. Добавлен Adventure Prey for Death
+
 ## Version 1.2.0
 1. Добавил токены для АП Strength of Thousands, забыл добавить
 2. Обновлен Monster Core(из нового отедльного модуля)

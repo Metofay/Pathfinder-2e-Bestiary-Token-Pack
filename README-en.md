@@ -32,33 +32,39 @@ This module is designed for the Foundry VTT program, adds bestiary and API art/t
 13. Fist of the Ruby Phoenix
 14. Seven Dooms for Sandpoint
 15. Strength of Thousands
+16. Wardens of Wildwood
 
 <b>Ruleboock:</b>
 
 1. Book of the Dead
 2. Paizo Blog
-3. Lost Omens Impossible Lands
-4. Lost Omens Mwangi Expanse
-5. Lost Omens Highhelm
-6. Lost Omens Monsters of Myth
-7. Lost Omens Travel Guide
-8. Npc Gallery
-9. Rage of Elements
-10. Dark Archive
+3. Howl of the Wild
+4. Lost Omens Impossible Lands
+5. Lost Omens Mwangi Expanse
+6. Lost Omens Highhelm
+7. Lost Omens Monsters of Myth
+8. Lost Omens Tian Xia World Guide
+9. Lost Omens Travel Guide
+10. Npc Gallery
+11. Rage of Elements
+12. Dark Archive
+13. Howl of the Wild
+14. Lost Omens Tian Xia World Guide
 
 <b>Standalone Adventures</b>
 
 1. Fall of Plaguestone
 2. Malevolence
 3. Menace Under Otari
-4. Rusthenge
-5. Shadows at Sundown
-6. the Enmity Cycle
-7. the Slithering
-8. Troubles in Otari
-9. Night of the Gray Death
-10. Crown of the Kobold King
-11. One-Shots
+4. One-Shots
+5. Prey for Death
+6. Rusthenge
+7. Shadows at Sundown
+8. the Enmity Cycle
+9. the Slithering
+10. Troubles in Otari
+11. Night of the Gray Death
+12. Crown of the Kobold King
 
 <b>Other:</b>
 
