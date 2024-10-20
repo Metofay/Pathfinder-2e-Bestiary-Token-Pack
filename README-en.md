@@ -1,7 +1,5 @@
 [![Version (latest)](https://img.shields.io/github/v/release/Metofay/Pathfinder-2e-Bestiary-Token-Pack)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/releases/latest)
 ![Data-release](https://img.shields.io/github/release-date/Metofay/Pathfinder-2e-Bestiary-Token-Pack)
-![Downloads](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/total)
-![Downloads-lates](https://img.shields.io/github/downloads/Metofay/Pathfinder-2e-Bestiary-Token-Pack/latest/total)
 
 ## Pathfinder-2e-Bestiary-Token-Pack
 This module is designed for the Foundry VTT program, adds bestiary and API art/tokens to the Pathfinder 2e system
@@ -20,19 +18,20 @@ This module is designed for the Foundry VTT program, adds bestiary and API art/t
 1.	Abomination Vaults
 2.	Age of Ashes
 3.	Blood Lords
-4.	Gatewalkers
-5.	Outlaws of Alkenstar
-6.	Kingmaker
-7.	Quest for the Frozen
-8.	Season of Ghosts
-9.	Sky Kings Tomb
-10.	Stolen Fate
-11.	Extinction Curse
-12. Agents of Edgewatch
-13. Fist of the Ruby Phoenix
-14. Seven Dooms for Sandpoint
-15. Strength of Thousands
-16. Wardens of Wildwood
+4.  Curtain Call
+5.	Gatewalkers
+6.	Outlaws of Alkenstar
+7.	Kingmaker
+8.	Quest for the Frozen
+9.	Season of Ghosts
+10.	Sky Kings Tomb
+11.	Stolen Fate
+12.	Extinction Curse
+13. Agents of Edgewatch
+14. Fist of the Ruby Phoenix
+15. Seven Dooms for Sandpoint
+16. Strength of Thousands
+17. Wardens of Wildwood
 
 <b>Ruleboock:</b>
 

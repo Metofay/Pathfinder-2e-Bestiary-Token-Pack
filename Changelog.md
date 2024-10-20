@@ -2,6 +2,9 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/Changelog-en.md)
 
+## Version 1.4.0
+1. Добавлен АП Curtain Call
+
 ## Version 1.3.0
 1. Добавлен АП Wardens of Wildwood
 2. Добавлен Rulebooks Howl of the Wild

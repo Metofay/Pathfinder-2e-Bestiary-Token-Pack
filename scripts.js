@@ -9,6 +9,7 @@ class PathfinderBestiaryTokenPack {
       { key: "age-of-ashes-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Age of Ashes Bestiary") },
       { key: "agents-of-edgewatch-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Agents of Edgewatch Bestiary") },
       { key: "blood-lords-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Blood Lords Bestiary") },
+      { key: "curtain-call-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Curtain Call Bestiary") },
       { key: "extinction-curse-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Extinction Curse Bestiary") },
       { key: "fists-of-the-ruby-phoenix-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Fists of the Ruby Phoenix Bestiary") },
       { key: "gatewalkers-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Gatewalkers Bestiary") },

@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.4.0
+1. Added AP Curtain Call
+
 ## Version 1.3.0
 1. Added AP Wardens of Wildwood
 2. Added Rulebooks Howl of the Wild

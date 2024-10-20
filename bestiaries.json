@@ -25114,123 +25114,431 @@
     }
   },
   "curtain-call-bestiary": {
-    "Anguish Siktempora": {
-      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Anguish-Siktempora.webp",
+    "mNrZV72eUg7lfmqc": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Agadaz.webp",
       "token": {
-        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Anguish-Siktempora.webp",
-        "scale": 1.6
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Agadaz.webp",
+        "scale": 1.0
       }
     },
-    "Augusta Wormwood": {
-      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Augusta-Wormwood.webp",
+    "A1MdmLZnbanM5CZi": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Anguish Siktempora.webp",
       "token": {
-        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Augusta-Wormwood.webp",
-        "scale": 1.6
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Anguish Siktempora.webp",
+        "scale": 1.0
       }
     },
-    "Azarpal": {
+    "SGWcXt1bqMh09qab": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Animated Boiler.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Animated Boiler.webp",
+        "scale": 2.0
+      }
+    },
+    "oWXuMRAy2BP0z0uO": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Arshean Warden.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Arshean Warden.webp",
+        "scale": 2.0
+      }
+    },
+    "8L1GpUj3eJgaeFUk": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Augusta Wormwood.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Augusta Wormwood.webp",
+        "scale": 1.0
+      }
+    },
+    "yNkLAeHXYRtrPdz5": {
       "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Azarpal.webp",
       "token": {
         "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Azarpal.webp",
-        "scale": 1.6
+        "scale": 1.0
       }
     },
-    "Emriss": {
+    "VOtMQkKzvL7nMGcX": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Blackfingers.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Blackfingers.webp",
+        "scale": 2.0
+      }
+    },
+    "ar9K6cpiG6G3v2wZ": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Delaraius Solzakarr.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Delaraius Solzakarr.webp",
+        "scale": 1.0
+      }
+    },
+    "RB1DZPTjSC0mnw95": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Echopsyvne.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Echopsyvne.webp",
+        "scale": 2.0
+      }
+    },
+    "NmzB37eKJpmflJIl": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Egarhowl.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Egarhowl.webp",
+        "scale": 1.0
+      }
+    },
+    "XZLHAUd4Yce1t6O7": {
       "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Emriss.webp",
       "token": {
         "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Emriss.webp",
-        "scale": 1.6
+        "scale": 2.0
       }
     },
-    "Fallenta": {
+    "0ynDv96qQZpZc0J8": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Facade.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Facade.webp",
+        "scale": 1.0
+      }
+    },
+    "LIxnoH1iC1vEP5xq": {
       "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Fallenta.webp",
       "token": {
         "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Fallenta.webp",
-        "scale": 1.6
+        "scale": 1.0
       }
     },
-    "Furnerico": {
+    "m3VQLbUy5rKWJOyA": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Father Skinsaw.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Father Skinsaw.webp",
+        "scale": 1.5
+      }
+    },
+    "N5sypiEac4BKyeQb": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Fenton Vilorgo.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Fenton Vilorgo.webp",
+        "scale": 1.0
+      }
+    },
+    "ZaT4rd3bTIfECkCd": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Fentons Faithful.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Fentons Faithful.webp",
+        "scale": 1.0
+      }
+    },
+    "3tYqfg9qhrtyTbvq": {
       "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Furnerico.webp",
       "token": {
         "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Furnerico.webp",
-        "scale": 1.6
+        "scale": 1.5
       }
     },
-    "Girtablilu Guardian": {
-      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Girtablilu-Guardian.webp",
+    "TPyca1apEDuunvzZ": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Girtablilu Guardian.webp",
       "token": {
-        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Girtablilu-Guardian.webp",
-        "scale": 1.6
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Girtablilu Guardian.webp",
+        "scale": 1.5
       }
     },
-    "Girtablilu Sentry": {
-      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Girtablilu-Sentry.webp",
+    "rI8VEh3yN07RBDaX": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Girtablilu Sentry.webp",
       "token": {
-        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Girtablilu-Sentry.webp",
-        "scale": 1.6
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Girtablilu Sentry.webp",
+        "scale": 1.5
       }
     },
-    "Graverobber": {
+    "aMPcSiJMjxnqqvgT": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Grandmama.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Grandmama.webp",
+        "scale": 2.0
+      }
+    },
+    "ylAEACovrsq8XaOa": {
       "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Graverobber.webp",
       "token": {
         "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Graverobber.webp",
-        "scale": 1.6
+        "scale": 1.0
       }
     },
-    "Hellshadow": {
+    "1eX4Csnv3psAsfLf": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Gray Master.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Gray Master.webp",
+        "scale": 1.0
+      }
+    },
+    "58QVgNXmRsI7p8xq": {
       "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Hellshadow.webp",
       "token": {
         "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Hellshadow.webp",
-        "scale": 1.6
+        "scale": 1.5
       }
     },
-    "Honor Guard": {
-      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Honor-Guard.webp",
+    "aYilwFsxQZkdqv6z": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Honor Guard.webp",
       "token": {
-        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Honor-Guard.webp",
-        "scale": 1.6
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Honor Guard.webp",
+        "scale": 1.5
       }
     },
-    "Living Nightmare": {
-      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Living-Nightmare.webp",
+    "HGCOaH2EJ2AyVYJO": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Izhkarial.webp",
       "token": {
-        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Living-Nightmare.webp",
-        "scale": 1.6
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Izhkarial.webp",
+        "scale": 2.0
       }
     },
-    "Nemesis": {
+    "qsXi69M1nGMOLZC5": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Jorogumo Disciple.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Jorogumo Disciple.webp",
+        "scale": 2.0
+      }
+    },
+    "BgPshRvqaBvy4ulr": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Karumzek Priest.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Karumzek Priest.webp",
+        "scale": 2.0
+      }
+    },
+    "9qFTRSaEYnrYDVHH": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Karumzek Priest.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Karumzek Priest.webp",
+        "scale": 2.0
+      }
+    },
+    "REOHdavtL7k20KQc": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Karumzek Priest.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Karumzek Priest.webp",
+        "scale": 2.0
+      }
+    },
+    "jyKGV1HeXcLF1E5f": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Kimingio.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Kimingio.webp",
+        "scale": 1.5
+      }
+    },
+    "WFZpAABKj85MK8y8": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Living Nightmare.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Living Nightmare.webp",
+        "scale": 1.2
+      }
+    },
+    "WS3KRvmJMbftLbdV": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Mask of Blackfingers.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Mask of Blackfingers.webp",
+        "scale": 1.5
+      }
+    },
+    "NWgVQNeDHnjSxOiK": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Mask of Father Skinsaw.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Mask of Father Skinsaw.webp",
+        "scale": 1.5
+      }
+    },
+    "6s7h25mjQAsVEkcY": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Mask of Gray Master.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Mask of Gray Master.webp",
+        "scale": 1.0
+      }
+    },
+    "AIcxTXQjR0Y70oNE": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Mask of the Reaper.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Mask of the Reaper.webp",
+        "scale": 1.0
+      }
+    },
+    "AOCjBM0drUBjGUIE": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Masque Mannequin.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Masque Mannequin.webp",
+        "scale": 1.0
+      }
+    },
+    "Co5OLOIXjbsWxsiy": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Miavri.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Miavri.webp",
+        "scale": 1.0
+      }
+    },
+    "d4uqDeZ03CKl43zF": {
       "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Nemesis.webp",
       "token": {
         "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Nemesis.webp",
-        "scale": 1.6
+        "scale": 1.2
       }
     },
-    "Ockomlire": {
+    "XlEHPOxIIvne6oxe": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Niallana.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Niallana.webp",
+        "scale": 1.0
+      }
+    },
+    "tf3SNBb3jkrgVPLL": {
       "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Ockomlire.webp",
       "token": {
         "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Ockomlire.webp",
-        "scale": 1.6
+        "scale": 1.0
       }
     },
-    "Rezzelki": {
+    "nR3CaOtmBVFTekO3": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Operatic Emissary.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Operatic Emissary.webp",
+        "scale": 1.0
+      }
+    },
+    "iaQrKM85V4hWWmxw": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Operatic Stone Bulwark.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Operatic Stone Bulwark.webp",
+        "scale": 1.0
+      }
+    },
+    "NpIoefm1VZTTnR8h": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Oriole.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Oriole.webp",
+        "scale": 1.0
+      }
+    },
+    "8VjUGaYgDutmaYjk": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Prince of Propaganda.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Prince of Propaganda.webp",
+        "scale": 1.5
+      }
+    },
+    "P0UJuYR6jKrV60k6": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Princess Sweetie.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Princess Sweetie.webp",
+        "scale": 1.0
+      }
+    },
+    "RPE2rcJvkcGwM5r6": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Razorbones.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Razorbones.webp",
+        "scale": 1.5
+      }
+    },
+    "HiJBqmjbRp7MmPUW": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Reaper of Reputation.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Reaper of Reputation.webp",
+        "scale": 1.5
+      }
+    },
+    "Jakh8SGsZvj9oaRW": {
       "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Rezzelki.webp",
       "token": {
         "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Rezzelki.webp",
-        "scale": 1.6
+        "scale": 1.0
       }
     },
-    "Skurg": {
+    "RUuUJtm8jAJ66z0Q": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Risen Nemesis.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Risen Nemesis.webp",
+        "scale": 1.2
+      }
+    },
+    "q7jRJq8kl9JXDPWY": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Rooftop Guardian.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Rooftop Guardian.webp",
+        "scale": 2.0
+      }
+    },
+    "JYE1gsB9D12crx5C": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Rusalka.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Rusalka.webp",
+        "scale": 1.0
+      }
+    },
+    "xUGrCX72cv1BO49f": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Shanty Chanter.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Shanty Chanter.webp",
+        "scale": 2.0
+      }
+    },
+    "ftKv0WsRlX7uasez": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Silverhand Salvo.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Silverhand Salvo.webp",
+        "scale": 1.0
+      }
+    },
+    "6guVWljIlk02aam7": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Simandu.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Simandu.webp",
+        "scale": 2.0
+      }
+    },
+    "Mmg3SDdcpcgX311I": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Skinsaw Trophy.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Skinsaw Trophy.webp",
+        "scale": 1.0
+      }
+    },
+    "h2ibApkyVasD995i": {
       "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Skurg.webp",
       "token": {
         "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Skurg.webp",
-        "scale": 1.6
+        "scale": 1.0
       }
     },
-    "The Final Herald": {
-      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/The-Final-Herald.webp",
+    "yBd3PYNJoUTrJVgM": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/The Final Herald.webp",
       "token": {
-        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/The-Final-Herald.webp",
-        "scale": 1.6
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/The Final Herald.webp",
+        "scale": 1.5
+      }
+    },
+    "gkRngSHpJl1I2MFf": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Venomfist.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Venomfist.webp",
+        "scale": 1.5
+      }
+    },
+    "OG0soHK46kY5I5QH": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Vorens.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Vorens.webp",
+        "scale": 1.0
+      }
+    },
+    "DBr25IAKQHwz69YD": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Waxen Effigy.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Waxen Effigy.webp",
+        "scale": 1.0
+      }
+    },
+    "7vC2VnYOgqpkYeNi": {
+      "actor": "modules/Pathfinder-2e-Bestiary-Token-Pack/portraits/adventure-patch/curtain-call/Zimiezek.webp",
+      "token": {
+        "img": "modules/Pathfinder-2e-Bestiary-Token-Pack/tokens/adventure-patch/curtain-call/Zimiezek.webp",
+        "scale": 1.5
       }
     }
   },

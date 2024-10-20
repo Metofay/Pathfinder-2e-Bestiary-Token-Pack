@@ -12,7 +12,7 @@
         "UnderstoodButton": "Понятно",
         "NoChanges": "Изменений в настройках не обнаружено. Перезагрузка не требуется.",
 
-        "settingsMessage": "Выберите бестиарии и/или приключения, изображения и портреты для которых вы не хотите подгружать из данного модуля.",
+        "settingsMessage": "Выберите бестиарии и/или приключения, изображения и портреты для которых вы не хотите подгружать из данного модуля. По умолчанию - все включено и загружает",
         "bestiaries": "Бестиарии",
         "adventure path": "Пути Приключений",
         "rulebook": "Книга правил",
@@ -26,6 +26,7 @@
         "Age of Ashes Bestiary": "Age of Ashes",
         "Agents of Edgewatch Bestiary": "Agents of Edgewatch",
         "Blood Lords Bestiary": "Blood Lords",
+        "Curtain Call Bestiary": "Curtain Call",
         "Extinction Curse Bestiary": "Extinction Curse",
         "Fists of the Ruby Phoenix Bestiary": "Fists of the Ruby Phoenix",
         "Gatewalkers Bestiary": "Gatewalkers",
