@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.4.1
+1. The modified bestiaries file has been added (Thanks danielrab)
+
 ## Version 1.4.0
 1. Added AP Curtain Call
 

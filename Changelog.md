@@ -2,6 +2,9 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/Changelog-en.md)
 
+## Version 1.4.1
+1. Добавлен измененный файл bestiaries(Спасибо danielrab)
+
 ## Version 1.4.0
 1. Добавлен АП Curtain Call
 
