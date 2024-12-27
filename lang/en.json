@@ -10,7 +10,7 @@
         "UnderstoodButton": "Understood",
         "NoChanges": "No changes detected in settings. No reload necessary.",
 
-        "settingsMessage": "Choose bestiaries and/or APs, for which you do not wish to upload art from this module. Default - everything is enabled and downloads",
+        "settingsMessage": "Choose bestiaries and/or APs, for which you do not wish to upload art from this module. Default - not selected and loads maps",
         "bestiaries": "Bestiaries",
         "adventure path": "Adventure Paths",
         "rulebook": "Rulebook",

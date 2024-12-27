@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.4.2
+1. Correction of the settings display
+
 ## Version 1.4.1
 1. The modified bestiaries file has been added (Thanks danielrab)
 
