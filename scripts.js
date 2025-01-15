@@ -51,7 +51,7 @@ class PathfinderBestiaryTokenPack {
     ];
 
     this.previousSettings = {};
-    this.settingsChanged = false;
+    this.settingsChanged = true;
 
     this.keys.forEach(({key, name, hint}) => {
       game.settings.register("Pathfinder-2e-Bestiary-Token-Pack", `enableOverwrite${key}`, {
@@ -59,7 +59,7 @@ class PathfinderBestiaryTokenPack {
         hint: hint,
         scope: "world",
         config: true,
-        default: true,
+        default: false,
         type: Boolean,
         onChange: () => this.onSettingChange(),
       });
