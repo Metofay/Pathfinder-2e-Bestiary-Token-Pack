@@ -2,6 +2,16 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/Changelog-en.md)
 
+## Version 1.5.0
+1. Обновлены флаги в Kingmaker
+2. Обновлен SA Rusthenge
+3. Добавлен Ruleboock War of Immortals
+4. Преобразовал файл bestiaries.json, чтобы название артов и токенов первая буква каждого слова была с заглавной буквы. Вроде как для Linux систем, как я понял.
+5. Был добавлен файл transform.js, чтобы я его не потерял, как раз этот скрипт мне помог сделать 4 пункт.
+
+## Version 1.4.3
+1. Исправления отображения настроек
+
 ## Version 1.4.2
 1. Исправления отображения настроек
 

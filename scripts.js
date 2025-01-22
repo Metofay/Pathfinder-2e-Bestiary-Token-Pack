@@ -34,6 +34,7 @@ class PathfinderBestiaryTokenPack {
       { key: "npc-gallery", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.NPC Gallery") },
       { key: "pathfinder-dark-archive", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Pathfinder Dark Archive") },
       { key: "rage-of-elements-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Rage of Elements Bestiary") },
+      { key: "war-of-immortals-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.War of Immortals Bestiary") },
       { key: "fall-of-plaguestone-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Fall of Plaguestone Bestiary") },
       { key: "malevolence-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Malevolence Bestiary") },
       { key: "menace-under-otari-bestiary", name: game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.Menace Under Otari Bestiary") },
@@ -51,7 +52,7 @@ class PathfinderBestiaryTokenPack {
     ];
 
     this.previousSettings = {};
-    this.settingsChanged = false;
+    this.settingsChanged = true;
 
     this.keys.forEach(({key, name, hint}) => {
       game.settings.register("Pathfinder-2e-Bestiary-Token-Pack", `enableOverwrite${key}`, {
@@ -59,7 +60,7 @@ class PathfinderBestiaryTokenPack {
         hint: hint,
         scope: "world",
         config: true,
-        default: true,
+        default: false,
         type: Boolean,
         onChange: () => this.onSettingChange(),
       });

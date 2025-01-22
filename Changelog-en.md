@@ -1,5 +1,14 @@
 # Changelog
 
+## Version 1.5.0
+1. Updated flags in Kingmaker
+2. Updated SA Rusthenge
+3. Added Rulebooks War of Immortals
+4. I converted the bestiaries file so that the name of the art and tokens is capitalized with the first letter of each word. Kind of like for Linux systems, as I understand it.
+
+## Version 1.4.3
+1. Correction of the settings display
+
 ## Version 1.4.2
 1. Correction of the settings display
 

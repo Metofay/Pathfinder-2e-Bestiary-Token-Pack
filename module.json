@@ -2,7 +2,7 @@
   "id": "Pathfinder-2e-Bestiary-Token-Pack",
   "title": "Pathfinder 2e: Bestiary Token Pack",
   "description": "Модуль добавляет изображения и токены монстрам и нпс",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -18,15 +18,6 @@
     {
       "name": "Metofay",
       "discord": "Метофей#135975"
-    },
-    {
-      "name": "World74"
-    },
-    {
-      "name": "TheGeekyOne"
-    },
-    {
-      "name": "LazySelkie"
     }
   ],
   "languages": [
