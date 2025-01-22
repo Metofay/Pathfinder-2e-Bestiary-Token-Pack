@@ -51,6 +51,7 @@
 12. Dark Archive
 13. Howl of the Wild
 14. Lost Omens Tian Xia World Guide
+15. War of Immortals
 
 <b>Приключения</b>
 

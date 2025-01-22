@@ -49,6 +49,7 @@ This module is designed for the Foundry VTT program, adds bestiary and API art/t
 12. Dark Archive
 13. Howl of the Wild
 14. Lost Omens Tian Xia World Guide
+15. War of Immortals
 
 <b>Standalone Adventures</b>
 
