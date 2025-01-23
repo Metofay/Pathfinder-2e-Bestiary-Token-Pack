@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.5.1
+1. The bestiaries file is provided.json and the name of the art/tokens to a common format, such as Child Of Belcora.webp. Something + is the same as monsters are called in the foundry itself. I hope for feedback on GitHub or Discord, because something might have broken in the process, not taking into account everything that is, etc.
+
 ## Version 1.5.0
 1. Updated flags in Kingmaker
 2. Updated SA Rusthenge

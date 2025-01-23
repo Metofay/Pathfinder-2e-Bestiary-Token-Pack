@@ -2,6 +2,9 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Metofay/Pathfinder-2e-Bestiary-Token-Pack/blob/master/Changelog-en.md)
 
+## Version 1.5.1
+1. Приведен файл bestiaries.json и название артов/токенов к общему формату, вот такому Child Of Belcorra.webp. Что то +- так же, как и в самом фаундри называются монстры. Надеюсь на обратный отзыв на GitHub или в Discord, т.к в процессе могло что то сломаться, не учесть все что есть и т.д
+
 ## Version 1.5.0
 1. Обновлены флаги в Kingmaker
 2. Обновлен SA Rusthenge

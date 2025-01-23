@@ -200,5 +200,4 @@ class PathfinderBestiaryTokenPack {
     $('<h2>').addClass('form-group group-header').html(game.i18n.localize("PATHFINDER2E-BESTIARY-TOKEN-PACK.pregenerated pcs")).insertBefore('[data-setting-id="Pathfinder-2e-Bestiary-Token-Pack.enableOverwritepaizo-pregens"]');
 
     $('section[data-tab="Pathfinder-2e-Bestiary-Token-Pack"] p.notes').css("min-height", 0).css("margin", 0);
-    
   })
